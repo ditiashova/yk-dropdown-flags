@@ -1,0 +1,17 @@
+{
+  "smartIndent": true,
+  "spaceUnits": 2,
+  "useTabChar": false,
+  "jwolfe.file-tree-exclude.list": [
+    ".git",
+    "node_modules"
+  ],
+  "interactive-linter.html": ["htmlhint"],
+  "interactive-linter.javascript": ["jslint"],
+  "language": {
+    "javascript": {
+      "linting.prefer": ["jslint"],
+      "linting.usePreferredOnly": true
+    }
+  }
+}
